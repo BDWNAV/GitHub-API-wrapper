@@ -1,0 +1,25 @@
+{
+  "name": "@bdwnav/github-api-example",
+  "version": "1.0.0",
+  "description": "A github api wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BDWNAV/GitHub-API-wrapper.git"
+  },
+  "keywords": [
+    "api",
+    "github",
+    "github-api",
+    "api-wrapper"
+  ],
+  "author": "BDWNAV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BDWNAV/GitHub-API-wrapper/issues"
+  },
+  "homepage": "https://github.com/BDWNAV/GitHub-API-wrapper#readme"
+}
