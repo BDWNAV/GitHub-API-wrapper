@@ -1,7 +1,7 @@
 const github = require("@bdwnav/github-api-wrapper");
 
 github.getUser('BDWNAV').then((data) => {
-    console.log(data);
+    console.log(data.login);
 }).catch((err) => {
     console.log(err);
 });

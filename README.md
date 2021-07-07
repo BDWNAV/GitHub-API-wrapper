@@ -1,2 +1,2 @@
 # github-api-wrapper
-A api wrapper for github.
+The package is not ready yet!
