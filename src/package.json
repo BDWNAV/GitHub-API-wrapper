@@ -1,5 +1,5 @@
 {
-  "name": "@bdwnav/github-api-example",
+  "name": "@bdwnav/github-api-wrapper",
   "version": "1.0.0",
   "description": "A github api wrapper.",
   "main": "index.js",
