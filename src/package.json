@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/BDWNAV/GitHub-API-wrapper/issues"
   },
-  "homepage": "https://github.com/BDWNAV/GitHub-API-wrapper#readme"
+  "homepage": "https://github.com/BDWNAV/GitHub-API-wrapper#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
