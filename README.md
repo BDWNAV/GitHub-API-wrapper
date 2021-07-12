@@ -11,7 +11,10 @@ const github = require("@bdwnav/github-api-wrapper");
 function getAUser() {
   github.getUser("BDWNAV").then((data) => console.log(data)).catch((err) => console.log(err));
 }
+```
 
+# get a repo
+```js
 //Get a repo function.
 function getARepo() {
   //Paramaters required are the repo owners name, and the repos name.
