@@ -1,3 +1,4 @@
 module.exports = {
-  getUser: require("./user/getUser"),
+  getUser: require("./data/getUser"),
+  getRepo: require("./data/getRepo")
 };
