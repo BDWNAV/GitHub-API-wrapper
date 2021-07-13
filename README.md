@@ -3,7 +3,7 @@
 Github api wrapper is a simple package to get public data for the user and repos. It is also very simple to use.
 
 # get a user
-
+ 
 ```js
 const github = require("@bdwnav/github-api-wrapper");
 
